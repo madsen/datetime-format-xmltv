@@ -1,0 +1,15 @@
+/.build/
+/_build/
+/blib/
+/Build
+/Build.bat
+Makefile
+/META.yml
+/MYMETA.yml
+/pm_to_blib
+DateTime-Format-XMLTV-*.tar.gz
+DateTime-Format-XMLTV-*/
+/test-results/
+*.c
+*.obj
+*.pdb
