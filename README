@@ -1,7 +1,8 @@
-DateTime-Format-XMLTV version {{$version}}, released {{$date}}
+DateTime::Format::XMLTV version {{$version}}, released {{$date}}
 
 
-This module {{ die "needs a description (README.md too)" }}.
+This module understands the datetime format used by XMLTV files,
+and converts to & from DateTime objects.
 
 
 
@@ -20,7 +21,7 @@ DEPENDENCIES
 
 
 CHANGES
-    Here's what's new in version {{$version}} of DateTime-Format-XMLTV:
+    Here's what's new in version {{$version}} of DateTime::Format::XMLTV:
     (See the file "Changes" for the full revision history.)
 
 {{$changes}}
