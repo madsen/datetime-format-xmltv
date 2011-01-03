@@ -1,7 +1,7 @@
 #---------------------------------------------------------------------
 package DateTime::Format::XMLTV;
 #
-# Copyright 2010 Christopher J. Madsen
+# Copyright 2011 Christopher J. Madsen
 #
 # Author: Christopher J. Madsen <perl@cjmweb.net>
 # Created: 28 Dec 2010
