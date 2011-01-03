@@ -7,5 +7,7 @@ Makefile.PL
 README
 lib/DateTime/Format/XMLTV.pm
 t/00.load.t
+t/10.parse.t
+t/20.format.t
 t/release-pod-coverage.t
 t/release-pod-syntax.t
