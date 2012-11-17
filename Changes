@@ -1,6 +1,6 @@
 Revision history for DateTime-Format-XMLTV
 
-1.00   NOT
+1.00   November 17, 2012
 	- Add tests for +0930 time zone
 	- Add 00-all_prereqs.t
 
