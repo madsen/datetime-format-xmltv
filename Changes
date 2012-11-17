@@ -1,4 +1,8 @@
 Revision history for DateTime-Format-XMLTV
 
+1.00   NOT
+	- Add tests for +0930 time zone
+	- Add 00-all_prereqs.t
+
 0.01   May 5, 2011
 	- Initial release
