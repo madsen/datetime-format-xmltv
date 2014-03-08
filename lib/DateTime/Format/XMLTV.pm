@@ -21,7 +21,7 @@ use 5.008;
 use strict;
 use warnings;
 
-our $VERSION = '1.00';
+our $VERSION = '1.001';
 # This file is part of {{$dist}} {{$dist_version}} ({{$date}})
 
 #=====================================================================
